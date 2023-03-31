@@ -74,11 +74,3 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-<br />
