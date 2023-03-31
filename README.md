@@ -6,10 +6,10 @@
 ### <div align="center">I'm Giacomo Corcella, a Junior developer 👨‍💻 and Crypto Enthusiast ₿</div>  
   
 
-- I currently work at EY ⚒️  
+- Currently, I work at EY ⚒️  
   
 
-- I’m currently learning some programming languages/framework ⌨️  
+- I’m currently learning various programming languages/framework ⌨️  
   
 
 - I love chess, let's play? ♟️  
