@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://media.tenor.com/zX7krMNKfmMAAAAd/greetings-rufus.gif" align="center" style="width: 100%" />
 </div>  
-//https://rishavanand.github.io/static/images/greetings.gif
- 
+
+ <!--- https://rishavanand.github.io/static/images/greetings.gif-->
 
 ### <div align="center">I'm Giacomo Corcella, a Junior developer 👨‍💻 and Crypto Enthusiast ₿</div>  
   
