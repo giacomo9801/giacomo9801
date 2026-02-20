@@ -4,7 +4,7 @@
 
  <!--- https://rishavanand.github.io/static/images/greetings.gif-->
 
-### <div align="center">I'm Giacomo Corcella, a Junior developer 👨‍💻 and Crypto Enthusiast ₿</div>  
+### <div align="center">I'm Giacomo Corcella, Developer 👨‍💻 and Crypto Enthusiast ₿</div>  
     
 
 - I’m currently learning various programming languages/framework ⌨️  
