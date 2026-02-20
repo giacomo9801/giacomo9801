@@ -5,10 +5,7 @@
  <!--- https://rishavanand.github.io/static/images/greetings.gif-->
 
 ### <div align="center">I'm Giacomo Corcella, a Junior developer 👨‍💻 and Crypto Enthusiast ₿</div>  
-  
-
-- Currently, I work at EY ⚒️  
-  
+    
 
 - I’m currently learning various programming languages/framework ⌨️  
   
